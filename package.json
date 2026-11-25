@@ -1,0 +1,13 @@
+{
+  "name": "smart-build-cache-invalidation",
+  "version": "1.0.0",
+  "description": "Smart Docker Build Cache Invalidation",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js"
+  },
+  "dependencies": {
+  "express": "^4.21.2",
+  "lodash": "^4.17.21"
+}
+}
